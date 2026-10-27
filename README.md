@@ -8,7 +8,7 @@ The Google Gemini-Pro Chat Application is a Streamlit-based web interface that f
 
 ## Getting Started
 
-To get started with the project, follow the steps below.
+To get started with the project, the following steps have to be followed.
 
 ### Prerequisites
 
